@@ -13,5 +13,5 @@
 ## Find me at
 
 - 💼 LinkedIn: [Prarabdha Bharadwaj](https://www.linkedin.com/in/prarxbdha)
-- 📸 Instagram: [@your_instagram](https://www.instagram.com/prarxbdha)
+- 📸 Instagram: [@prarxbdha](https://www.instagram.com/prarxbdha)
  
