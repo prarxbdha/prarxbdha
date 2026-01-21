@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**prarxbdha/prarxbdha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Prarabdha 👋
 
-Here are some ideas to get you started:
+- 🧑‍🎓 First-year engineering student (InfoScience) in India  
+- 🌱 Learning **full-stack web dev (MERN)**    
+- ⚡ I enjoy **making music and sports** 
+- 💻 Working on and Learning: **Java, JavaScript, React, Node.js, Express, MongoDB, Git, GitHub**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- 🌾 **FarmConnect**: Connects local farmers around Bangalore directly with consumers  
+
+## Find me at
+
+- 💼 LinkedIn: [Prarabdha Bharadwaj](https://www.linkedin.com/in/prarxbdha)
+- 📸 Instagram: [@your_instagram](https://www.instagram.com/prarxbdha)
+ 
