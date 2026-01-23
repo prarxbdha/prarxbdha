@@ -1,5 +1,5 @@
 
-## About me👋
+## About me
 
 - 🧑‍🎓 First-year engineering student (InfoScience) in India  
 - 🌱 Learning **full-stack web dev (MERN)**    
